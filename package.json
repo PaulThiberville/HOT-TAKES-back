@@ -1,0 +1,26 @@
+{
+  "name": "hot-takes-api",
+  "version": "1.0.0",
+  "description": "API pour une application web orientée sur le partage et like de sauces entre les utilisateurs.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "author": "Paul Thiberville",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "csp": "^0.0.1-alpha1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-enforces-ssl": "^1.1.0",
+    "express-rate-limit": "^6.3.0",
+    "helmet": "^5.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.4",
+    "mongoose-unique-validator": "^3.0.0",
+    "multer": "^1.4.4"
+  }
+}
