@@ -4,10 +4,10 @@ This is the back end for a sauce sharing and rating application
 
 Main Features :
 
-     -Create and manage users
-     -User authentication
-     -Create and manage sauces
-     -Like and dislike sauces
+-Create and manage users.
+-User authentication.
+-Create and manage sauces.
+-Like and dislike sauces.
      
 
 # Clone
