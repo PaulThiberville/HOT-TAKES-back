@@ -1,6 +1,8 @@
 # What is it ?
 
-This is the back end for a sauce sharing and rating application
+This is the back end for a sauce sharing and rating application for project 6 of Openclassroms Web Developper path.
+
+https://openclassrooms.com/fr/paths/185/projects/676/assignment
 
 Main Features :
 
